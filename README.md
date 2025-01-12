@@ -1,18 +1,18 @@
-## baking/:
+## baking:
 	classic_fried_donuts.txt
 	matcha_white_chip_cookies.txt
 
-## breakfast/:
+## breakfast:
 	overnight_waffles.txt
 
-## meats/:
+## meats:
 	chipotle_chicken_loaf.txt
 	pickled_mustard_seed_steak.txt
 
 	todo:
 	[] edit chicken loaf - bad recipe
 
-## pastas/:
+## pastas:
 	shallot_anchovy_pasta.png
 
 	too add:
@@ -21,7 +21,7 @@
 	[] aglio e olio
 	[] cacio e pepe
 
-## stews/:
+## stews:
 	aloo_sabji_recipe.txt
 	ashish_kumar_butter_chicken.txt
 	butter_chicken_recipe.txt
