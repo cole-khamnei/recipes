@@ -20,6 +20,7 @@
 	[] anchovy-garlic
 	[] aglio e olio
 	[] cacio e pepe
+	
 
 ## stews:
 	aloo_sabji_recipe.txt
@@ -31,3 +32,10 @@
 
 	todo:
 	[] add persian stews (lp, bdjn, mgzm, zp, hrz)
+
+
+
+
+## Want to try:
+	[] zozzona - https://www.seriouseats.com/pasta-alla-zozzona-rigatoni-with-sausage-and-egg-yolks
+	
